@@ -1,5 +1,6 @@
 # --- Backend ---
 backend/database_test.sqlite
+backend/database_dev.sqlite
 backend/node_modules/
 backend/coverage/
 backend/.DS_Store
@@ -9,3 +10,6 @@ frontend/node_modules
 frontend/coverage
 frontend/.idea
 frontend/.DS_Store
+frontend/yarn.lock
+frontend/package-lock.json
+frontend/package.json
