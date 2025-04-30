@@ -1,0 +1,9 @@
+# --- Backend ---
+backend/database_test.sqlite
+backend/node_modules/
+backend/coverage/
+
+# --- Frontend ---
+frontend/node_modules/
+frontend/coverage/
+frontend/.idea/
